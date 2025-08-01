@@ -6,5 +6,6 @@ public class Main {
         Employee employee = new Employee();
         employee.name = "A";
         System.out.println(employee.department);;
+        System.out.println("mobinaRahi");
     }
 }
